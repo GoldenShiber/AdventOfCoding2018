@@ -1,6 +1,7 @@
 #Include some standard libraries
 from __future__ import print_function
 import string
+import timeit
 
 
 def findIndex(word, letter):
@@ -106,7 +107,7 @@ def filterPotentialList(area, nodelist):
     for i in range(len(nodelist)):
         if existOnBoundary(area, nodelist[i][2]):
             status = "Type %s goes to infinity" % nodelist[i]
-            print(status)
+            #print(status)
         else:
             candidateList.append(nodelist[i])
     return candidateList
@@ -153,14 +154,26 @@ def totalDistance(nodelist, threshold):
 
 
 def test(filepath, size):
+    start = timeit.default_timer()
     nodeList = createNodeList(filepath)
     playmat = fillPlayMat(nodeList, size)
     for i in range(size):
         for j in range(size):
             manhattanDistance([i,j], nodeList, playmat)
     candidateList = filterPotentialList(playmat, nodeList)
+    stop = timeit.default_timer()
+    prepTime = stop - start
+    start = timeit.default_timer()
     countArea(playmat, candidateList)
+    stop = timeit.default_timer()
+    part1Time = stop - start
+    start = timeit.default_timer()
     totalDistance(nodeList, 10000)
+    stop = timeit.default_timer()
+    part2Time = stop - start
 
+    print('Time for preparation is: ', prepTime, "s")
+    print('Time for part 1 is: ', part1Time, "s")
+    print('Time for part 2 is: ', part2Time, "s")
 
 test("input.txt", 500)
