@@ -112,6 +112,7 @@ def updateWorker(workList,rulematrix, elfList):
 
                     statusWork = "Current Letters are%s\nCurrent workers are %s\nCurrent time is %s\n and time taken is %s\n" \
                          % (workList[:][0], workList[:][1], workList[:][2], time)
+                    print(statusWork)
 
 
         #Take away finished progresses and reduce time
