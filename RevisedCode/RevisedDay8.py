@@ -4,13 +4,19 @@ from __future__ import print_function
 import string
 import timeit
 
-filepath = "input.txt"
-filepath = "example.txt"
+if __name__ == '__main__' and __package__ is None:
+    from os import sys, path
+    sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
+from usefulFunctions import *
+
+filepath = "../day8/input.txt"
+examplePath = "../day8/example.txt"
 
 #letterList = string.ascii_uppercase + string.ascii_lowercase
 
 
 with open(filepath) as fp:
+#with open(examplePath) as fp:
     line = fp.readline()
 numData = line.split(" ")
 
@@ -52,20 +58,11 @@ class Node(object):
         self.children.append(obj)
         self.childAmount =int(self.childAmount)+1
 
-    #def rootsum(self):
-
-
 # root = Node("A",[2,3,4])
 # root.name = "A"
 # >>> root.value
 # [2, 3, 4]
 
-
-def sumStringList(numList):
-    value = 0
-    for i in range(len(numList)):
-        value = int(numList[i]) + value
-    return value
 
 
 def childrenStatus(self ):
@@ -78,13 +75,11 @@ def childrenStatus(self ):
     while i < len(numData):
         if int(self.childAmount) < int(self.maxChild):
             previousleaf = self.name[0]
-            
             if previousleaf == "Root":
                 print("hej")
                 rootvalues = rootMult
             else:
                 rootvalues = self.value
-
             letterIndex = letterIndex + 1
             childname = letterList[letterIndex]
             i = i + 2
@@ -95,11 +90,11 @@ def childrenStatus(self ):
             #print(status)
             childrenStatus(self.children[int(self.childAmount)-1])
         else:
-            i = i + 2
+            i += 2
             metamax = i + int(self.value)
             self.value = numData[i:metamax]
             totalSum = totalSum + sumStringList(self.value)
-            i = metamax -2
+            i -= 2
             status = "Child %s has metavalue %s" %(self.name, self.value)
             rootvalues = self.value
             if previousleaf is "Root":

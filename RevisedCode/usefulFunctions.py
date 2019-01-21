@@ -125,3 +125,12 @@ def cleanIntList(intList):
     for i in range(listlen):
         newList[i] = cleanIntString(intList[i])
     return newList
+
+''' 
+Calculate the sum of a list of string format
+'''
+def sumStringList(numList):
+    value = 0
+    for i in range(len(numList)):
+        value = int(numList[i]) + value
+    return value
