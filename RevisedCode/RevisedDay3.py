@@ -10,6 +10,8 @@ from usefulFunctions import *
 
 import numpy as np
 import re
+import timeit
+
 
 def makeRectangle(paintedMap, x, y):
     xmin = x
@@ -76,6 +78,7 @@ def paintTheMatrix(paintMatrix,offset, area):
 
 def test(filepath):
     lengthOfFile = file_len(filepath)
+    start = timeit.default_timer()
     pixelCount = 0
     # Create register matrix for the input data
     registerMatrix = np.zeros(shape=(lengthOfFile, 5))
@@ -97,8 +100,12 @@ def test(filepath):
 
     print(pixelCount)
 
+    stop = timeit.default_timer()
+    part1Time = stop - start
+    print('Time for part 1 is: ', part1Time, "s")
     # Begin to find the single claim id
 
+    start = timeit.default_timer()
     uniqueMatrix = np.zeros(shape=(500, 4))
     #uniqueMatrix[0, :] = [9999, 10000, 9999, 10000]
     iteration = 1
@@ -125,6 +132,9 @@ def test(filepath):
                 ID = registerMatrix[cnt][0]
                 break
     print(ID)
+    stop = timeit.default_timer()
+    part2Time = stop - start
+    print('Time for part 2 is: ', part2Time, "s")
 
 
 test("../day3/input.txt")

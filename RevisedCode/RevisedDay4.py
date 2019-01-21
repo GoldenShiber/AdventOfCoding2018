@@ -2,6 +2,8 @@
 from __future__ import print_function
 
 import numpy as np
+import timeit
+
 
 if __name__ == '__main__' and __package__ is None:
     from os import sys, path
@@ -64,6 +66,7 @@ def guardStates(status,oldTime, minutes, id, timematrix):
     return  previousTime, id
 
 def test(filepath):
+    start = timeit.default_timer()
     # Create register matrix for the input data, big amount of ID, 60 minutes
     registerMatrix = np.zeros(shape=(5000, 60))
 
@@ -89,15 +92,24 @@ def test(filepath):
         status = "Guard with ID %s rest at minute %s for a total of the score %s" % (
         maxIndex, maxValue, maxIndex * maxValue)
         print(status)
+        stop = timeit.default_timer()
+        part1Time = stop - start
+        print('Time for part 1 is: ', part1Time, "s")
 
         # Part 2
+        start = timeit.default_timer()
         # Find the right index
         ind = np.unravel_index(np.argmax(registerMatrix, axis=None), registerMatrix.shape)
         status = "Guard with ID %s rest most at minute %s for a total of %s times for a total of the score %s" % (
             ind[0], ind[1], registerMatrix[ind[0], ind[1]], ind[0] * ind[1])
         print(status)
+        stop = timeit.default_timer()
+        part2Time = stop - start
+        print('Time for part 2 is: ', part2Time, "s")
 
 
 test("sortedInput.txt")
+
+
 
 #createSortedListDate("../day4/input.txt","sortedInput.txt")

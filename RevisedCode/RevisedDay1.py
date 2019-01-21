@@ -1,6 +1,8 @@
 #Include some standard libraries
 from __future__ import print_function
 import numpy as np
+import timeit
+
 
 if __name__ == '__main__' and __package__ is None:
     from os import sys, path
@@ -9,6 +11,7 @@ from usefulFunctions import *
 
 
 def main(filepath):
+    start = timeit.default_timer()
     lengthOfFile = file_len(filepath)
     sum = 0
     # Create register list for the frequency
@@ -31,5 +34,8 @@ def main(filepath):
                         print(info)
                         finished = True
                         break
+    stop = timeit.default_timer()
+    totalTime = stop - start
+    print('Time for part 2 is: ', totalTime, "s")
 
 main("../day1/input.txt")

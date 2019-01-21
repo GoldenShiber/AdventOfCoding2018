@@ -5,6 +5,8 @@ if __name__ == '__main__' and __package__ is None:
     sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 from usefulFunctions import *
 
+import timeit
+
 
 
 def letterCounter(id):
@@ -42,6 +44,7 @@ def findcommonletters(word1, word2):
 def main(filepath):
     lengthOfFile = file_len(filepath)
 
+    start = timeit.default_timer()
     # Save the IDs into a last, as well as initialising sum counters
     beststrings = ["", 100]
     IDList = ["hohoho"] * lengthOfFile
@@ -57,9 +60,12 @@ def main(filepath):
     sum = sumCounter[0]*sumCounter[1]
     info = "The checksum of the packages is %s" % sum
     print(info)
+    stop = timeit.default_timer()
+    part1Time = stop - start
+    print('Time for part 1 is: ', part1Time, "s")
 
     # Now find the closest packages
-
+    start = timeit.default_timer()
     for j in range(lengthOfFile):
         for k in range(j,lengthOfFile):
             if j is not k:
@@ -68,7 +74,9 @@ def main(filepath):
                     beststrings = teststring
     info = "Most common letters are %s" % beststrings[0]
     print(info)
-
+    stop = timeit.default_timer()
+    part2Time = stop - start
+    print('Time for part 2 is: ', part2Time, "s")
 
 
 main("../day2/input.txt")
