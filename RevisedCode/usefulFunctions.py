@@ -118,3 +118,10 @@ def cleanIntString(line):
         if isInt(line[i]):
             lineProduct += line[i]
     return lineProduct
+
+def cleanIntList(intList):
+    listlen = len(intList)
+    newList = intList
+    for i in range(listlen):
+        newList[i] = cleanIntString(intList[i])
+    return newList

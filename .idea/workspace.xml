@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f6f8a97-da33-4825-97a6-8430aade158a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay6.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/RevisedCode/RevisedDay1.py" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay1.py" />
-      <change beforePath="$PROJECT_DIR$/RevisedCode/RevisedDay2.py" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay2.py" />
-      <change beforePath="$PROJECT_DIR$/RevisedCode/RevisedDay3.py" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay3.py" />
-      <change beforePath="$PROJECT_DIR$/RevisedCode/RevisedDay4.py" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay4.py" />
-      <change beforePath="$PROJECT_DIR$/RevisedCode/RevisedDay5.py" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay5.py" />
+      <change beforePath="$PROJECT_DIR$/RevisedCode/RevisedDay6.py" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay6.py" />
+      <change beforePath="$PROJECT_DIR$/RevisedCode/usefulFunctions.py" afterPath="$PROJECT_DIR$/RevisedCode/usefulFunctions.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,18 +27,8 @@
       <file leaf-file-name="RevisedDay1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reactions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/reactions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="720">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="24" />
               <folding>
                 <element signature="e#33#70#0" expanded="true" />
               </folding>
@@ -54,9 +39,20 @@
       <file leaf-file-name="RevisedDay6.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="290">
+              <caret line="130" column="35" lean-forward="false" selection-start-line="130" selection-start-column="35" selection-end-line="130" selection-end-column="35" />
+              <folding>
+                <element signature="e#33#70#0" expanded="true" />
+                <element signature="e#369#881#0" expanded="false" />
+                <element signature="e#918#1921#0" expanded="false" />
+                <element signature="e#1953#2032#0" expanded="false" />
+                <element signature="e#2072#2439#0" expanded="false" />
+                <element signature="e#2487#2771#0" expanded="false" />
+                <element signature="e#2811#2963#0" expanded="false" />
+                <element signature="e#3004#3581#0" expanded="false" />
+                <element signature="e#3628#4065#0" expanded="false" />
+                <element signature="e#3696#3956#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,8 +60,8 @@
       <file leaf-file-name="manhattannode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day6/manhattannode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="326">
+              <caret line="156" column="4" lean-forward="false" selection-start-line="156" selection-start-column="4" selection-end-line="176" selection-end-column="49" />
               <folding>
                 <element signature="e#33#70#0" expanded="true" />
                 <element signature="e#799#1323#0" expanded="false" />
@@ -77,26 +73,10 @@
       <file leaf-file-name="usefulFunctions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1548">
-              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+            <state relative-caret-position="686">
+              <caret line="121" column="4" lean-forward="false" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="25" />
               <folding>
                 <element signature="e#33#70#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RevisedDay5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="106" column="27" lean-forward="true" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
-              <folding>
-                <element signature="e#33#70#0" expanded="true" />
-                <element signature="e#165#510#0" expanded="false" />
-                <element signature="e#568#933#0" expanded="false" />
-                <element signature="e#1029#1375#0" expanded="false" />
-                <element signature="e#1468#2141#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -128,7 +108,7 @@
       <file leaf-file-name="RevisedDay3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
+            <state relative-caret-position="1083">
               <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
               <folding>
                 <element signature="e#343#1018#0" expanded="false" />
@@ -173,7 +153,6 @@
         <option value="$PROJECT_DIR$/day8/christmasTree.py" />
         <option value="$PROJECT_DIR$/day1/RevisedDay1.py" />
         <option value="$PROJECT_DIR$/day2/RevisedDay2.py" />
-        <option value="$PROJECT_DIR$/RevisedCode/usefulFunctions.py" />
         <option value="$PROJECT_DIR$/day2/IDControl.py" />
         <option value="$PROJECT_DIR$/RevisedCode/RevisedDay1.py" />
         <option value="$PROJECT_DIR$/RevisedCode/RevisedDay2.py" />
@@ -182,6 +161,7 @@
         <option value="$PROJECT_DIR$/RevisedCode/RevisedDay5.py" />
         <option value="$PROJECT_DIR$/day6/manhattannode.py" />
         <option value="$PROJECT_DIR$/day5/reactions.py" />
+        <option value="$PROJECT_DIR$/RevisedCode/usefulFunctions.py" />
         <option value="$PROJECT_DIR$/RevisedCode/RevisedDay6.py" />
       </list>
     </option>
@@ -307,8 +287,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31232727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31232727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -410,7 +391,7 @@
         <state relative-caret-position="198">
           <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
-            <element signature="e#33#70#0" expanded="false" />
+            <element signature="e#33#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -645,22 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay3.py">
+    <entry file="file://$PROJECT_DIR$/day5/reactions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
-          <folding>
-            <element signature="e#343#1018#0" expanded="false" />
-            <element signature="e#1059#1261#0" expanded="false" />
-            <element signature="e#1701#1988#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1548">
-          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="e#33#70#0" expanded="true" />
           </folding>
@@ -669,9 +638,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="720">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+          <folding>
+            <element signature="e#343#1018#0" expanded="false" />
+            <element signature="e#1059#1261#0" expanded="false" />
+            <element signature="e#1701#1988#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -685,7 +668,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="918">
           <caret line="106" column="27" lean-forward="true" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
           <folding>
             <element signature="e#33#70#0" expanded="true" />
@@ -697,10 +680,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="121" column="4" lean-forward="false" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="25" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day6/manhattannode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="326">
+          <caret line="156" column="4" lean-forward="false" selection-start-line="156" selection-start-column="4" selection-end-line="176" selection-end-column="49" />
           <folding>
             <element signature="e#33#70#0" expanded="true" />
             <element signature="e#799#1323#0" expanded="false" />
@@ -708,21 +701,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day5/reactions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="290">
+          <caret line="130" column="35" lean-forward="false" selection-start-line="130" selection-start-column="35" selection-end-line="130" selection-end-column="35" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#369#881#0" expanded="false" />
+            <element signature="e#918#1921#0" expanded="false" />
+            <element signature="e#1953#2032#0" expanded="false" />
+            <element signature="e#2072#2439#0" expanded="false" />
+            <element signature="e#2487#2771#0" expanded="false" />
+            <element signature="e#2811#2963#0" expanded="false" />
+            <element signature="e#3004#3581#0" expanded="false" />
+            <element signature="e#3628#4065#0" expanded="false" />
+            <element signature="e#3696#3956#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
