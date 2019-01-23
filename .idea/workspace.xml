@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f6f8a97-da33-4825-97a6-8430aade158a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay8.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/day8/christmastree2.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/RevisedCode/usefulFunctions.py" afterPath="$PROJECT_DIR$/RevisedCode/usefulFunctions.py" />
+      <change beforePath="$PROJECT_DIR$/RevisedCode/RevisedDay8.py" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay8.py" />
       <change beforePath="$PROJECT_DIR$/day8/christmasTree.py" afterPath="$PROJECT_DIR$/day8/christmasTree.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,21 +19,9 @@
       <file leaf-file-name="RevisedDay2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+            <state relative-caret-position="1116">
+              <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RevisedDay1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="24" />
-              <folding>
-                <element signature="e#33#70#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +29,8 @@
       <file leaf-file-name="RevisedDay6.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-160">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="18">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#33#70#0" expanded="true" />
                 <element signature="e#369#881#0" expanded="false" />
@@ -62,8 +50,8 @@
       <file leaf-file-name="RevisedDay7.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="596">
+              <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
               <folding>
                 <element signature="e#33#70#0" expanded="true" />
                 <element signature="e#357#463#0" expanded="false" />
@@ -71,17 +59,16 @@
                 <element signature="e#905#1160#0" expanded="false" />
                 <element signature="e#1416#1602#0" expanded="false" />
                 <element signature="e#1656#4073#0" expanded="false" />
-                <element signature="e#4102#5739#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RevisedDay8.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RevisedDay8.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="132">
+              <caret line="114" column="36" lean-forward="false" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
               <folding>
                 <element signature="e#34#71#0" expanded="true" />
               </folding>
@@ -89,11 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="christmasTree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="christmasTree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day8/christmasTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="80" column="12" lean-forward="false" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+            <state relative-caret-position="938">
+              <caret line="148" column="25" lean-forward="true" selection-start-line="148" selection-start-column="25" selection-end-line="148" selection-end-column="25" />
+              <folding>
+                <element signature="e#34#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="christmastree2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day8/christmastree2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="e#34#71#0" expanded="true" />
               </folding>
@@ -104,8 +103,8 @@
       <file leaf-file-name="manhattannode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day6/manhattannode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="164" column="27" lean-forward="true" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
+            <state relative-caret-position="2700">
+              <caret line="164" column="27" lean-forward="false" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
               <folding>
                 <element signature="e#33#70#0" expanded="true" />
                 <element signature="e#799#1323#0" expanded="false" />
@@ -117,8 +116,8 @@
       <file leaf-file-name="shortcut.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day7/shortcut.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+            <state relative-caret-position="2484">
+              <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
                 <element signature="e#100#259#0" expanded="false" />
@@ -132,8 +131,8 @@
       <file leaf-file-name="usefulFunctions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="80" column="16" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+            <state relative-caret-position="1098">
+              <caret line="80" column="16" lean-forward="false" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
               <folding>
                 <element signature="e#33#70#0" expanded="true" />
                 <element signature="e#603#867#0" expanded="false" />
@@ -150,8 +149,8 @@
       <file leaf-file-name="RevisedDay3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+            <state relative-caret-position="1584">
+              <caret line="131" column="14" lean-forward="false" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
               <folding>
                 <element signature="e#343#1018#0" expanded="false" />
                 <element signature="e#1059#1261#0" expanded="false" />
@@ -178,6 +177,8 @@
       <find>F</find>
       <find>E</find>
       <find>W</find>
+      <find>metapointer</find>
+      <find>root</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -205,8 +206,9 @@
         <option value="$PROJECT_DIR$/day7/shortcut.py" />
         <option value="$PROJECT_DIR$/RevisedCode/RevisedDay7.py" />
         <option value="$PROJECT_DIR$/RevisedCode/usefulFunctions.py" />
-        <option value="$PROJECT_DIR$/RevisedCode/RevisedDay8.py" />
         <option value="$PROJECT_DIR$/day8/christmasTree.py" />
+        <option value="$PROJECT_DIR$/day8/christmastree2.py" />
+        <option value="$PROJECT_DIR$/RevisedCode/RevisedDay8.py" />
       </list>
     </option>
   </component>
@@ -231,7 +233,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,7 +290,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,9 +335,9 @@
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31232727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3161968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -383,7 +385,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/day8/christmasTree.py</url>
-          <line>114</line>
+          <line>148</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -412,13 +414,126 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#369#881#0" expanded="false" />
+            <element signature="e#918#1921#0" expanded="false" />
+            <element signature="e#1953#2032#0" expanded="false" />
+            <element signature="e#2072#2439#0" expanded="false" />
+            <element signature="e#2487#2771#0" expanded="false" />
+            <element signature="e#2811#2963#0" expanded="false" />
+            <element signature="e#3004#3581#0" expanded="false" />
+            <element signature="e#3628#4065#0" expanded="false" />
+            <element signature="e#3696#3956#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="e#33#70#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#357#463#0" expanded="false" />
+            <element signature="e#505#860#0" expanded="false" />
+            <element signature="e#905#1160#0" expanded="false" />
+            <element signature="e#1416#1602#0" expanded="false" />
+            <element signature="e#1656#4073#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#34#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6/manhattannode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="164" column="27" lean-forward="true" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#799#1323#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7/shortcut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#100#259#0" expanded="false" />
+            <element signature="e#289#382#0" expanded="false" />
+            <element signature="e#407#557#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="80" column="16" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#603#867#0" expanded="false" />
+            <element signature="e#902#1234#0" expanded="false" />
+            <element signature="e#1998#2148#0" expanded="false" />
+            <element signature="e#2231#2381#0" expanded="false" />
+            <element signature="e#2462#2594#0" expanded="false" />
+            <element signature="e#2627#2767#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+          <folding>
+            <element signature="e#343#1018#0" expanded="false" />
+            <element signature="e#1059#1261#0" expanded="false" />
+            <element signature="e#1701#1988#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/christmasTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="80" column="12" lean-forward="false" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+          <folding>
+            <element signature="e#34#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day2/IDControl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1278">
           <caret line="72" column="31" lean-forward="true" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -426,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,7 +549,7 @@
         <state relative-caret-position="198">
           <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
-            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#33#70#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -446,6 +560,9 @@
           <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
           <folding>
             <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#971#1201#0" expanded="false" />
+            <element signature="e#1236#1500#0" expanded="false" />
+            <element signature="e#1551#2738#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -454,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,9 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
           <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="58" column="17" lean-forward="false" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -511,6 +623,9 @@
           <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
           <folding>
             <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#971#1201#0" expanded="false" />
+            <element signature="e#1236#1500#0" expanded="false" />
+            <element signature="e#1551#2738#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -519,9 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
           <caret line="121" column="73" lean-forward="false" selection-start-line="121" selection-start-column="73" selection-end-line="121" selection-end-column="73" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -529,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
           <caret line="43" column="28" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,9 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,10 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="96" column="30" lean-forward="false" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-            <element signature="e#1561#1669#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,26 +764,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="24" />
+        <state relative-caret-position="684">
+          <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="24" />
           <folding>
-            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#33#70#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+        <state relative-caret-position="1584">
+          <caret line="131" column="14" lean-forward="false" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
           <folding>
             <element signature="e#343#1018#0" expanded="false" />
             <element signature="e#1059#1261#0" expanded="false" />
@@ -693,8 +791,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        <state relative-caret-position="1116">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -703,20 +801,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="106" column="27" lean-forward="true" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="80" column="16" lean-forward="false" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
           <folding>
             <element signature="e#33#70#0" expanded="true" />
-            <element signature="e#165#510#0" expanded="false" />
-            <element signature="e#568#933#0" expanded="false" />
-            <element signature="e#1029#1375#0" expanded="false" />
-            <element signature="e#1468#2141#0" expanded="false" />
+            <element signature="e#603#867#0" expanded="false" />
+            <element signature="e#902#1234#0" expanded="false" />
+            <element signature="e#1998#2148#0" expanded="false" />
+            <element signature="e#2231#2381#0" expanded="false" />
+            <element signature="e#2462#2594#0" expanded="false" />
+            <element signature="e#2627#2767#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7/shortcut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#100#259#0" expanded="false" />
+            <element signature="e#289#382#0" expanded="false" />
+            <element signature="e#407#557#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6/manhattannode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="164" column="27" lean-forward="false" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#799#1323#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="18">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#33#70#0" expanded="true" />
             <element signature="e#369#881#0" expanded="false" />
@@ -732,66 +863,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
+    <entry file="file://$PROJECT_DIR$/day8/christmastree2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="80" column="16" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-            <element signature="e#603#867#0" expanded="false" />
-            <element signature="e#902#1234#0" expanded="false" />
-            <element signature="e#1998#2148#0" expanded="false" />
-            <element signature="e#2231#2381#0" expanded="false" />
-            <element signature="e#2462#2594#0" expanded="false" />
-            <element signature="e#2627#2767#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7/shortcut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-            <element signature="e#100#259#0" expanded="false" />
-            <element signature="e#289#382#0" expanded="false" />
-            <element signature="e#407#557#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-            <element signature="e#357#463#0" expanded="false" />
-            <element signature="e#505#860#0" expanded="false" />
-            <element signature="e#905#1160#0" expanded="false" />
-            <element signature="e#1416#1602#0" expanded="false" />
-            <element signature="e#1656#4073#0" expanded="false" />
-            <element signature="e#4102#5739#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6/manhattannode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="164" column="27" lean-forward="true" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
-          <folding>
-            <element signature="e#33#70#0" expanded="true" />
-            <element signature="e#799#1323#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="26" />
           <folding>
             <element signature="e#34#71#0" expanded="true" />
           </folding>
@@ -800,8 +875,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day8/christmasTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="80" column="12" lean-forward="false" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+        <state relative-caret-position="938">
+          <caret line="148" column="25" lean-forward="true" selection-start-line="148" selection-start-column="25" selection-end-line="148" selection-end-column="25" />
+          <folding>
+            <element signature="e#34#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#70#0" expanded="true" />
+            <element signature="e#357#463#0" expanded="false" />
+            <element signature="e#505#860#0" expanded="false" />
+            <element signature="e#905#1160#0" expanded="false" />
+            <element signature="e#1416#1602#0" expanded="false" />
+            <element signature="e#1656#4073#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="114" column="36" lean-forward="false" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
           <folding>
             <element signature="e#34#71#0" expanded="true" />
           </folding>

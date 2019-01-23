@@ -5,7 +5,7 @@ import string
 import timeit
 
 filepath = "input.txt"
-filepath = "example.txt"
+#filepath = "example.txt"
 
 #letterList = string.ascii_uppercase + string.ascii_lowercase
 
@@ -17,7 +17,7 @@ numData = line.split(" ")
 # Fix the last newline import
 numData[len(numData)-1]=(numData[len(numData)-1])[0]
 rootMult = numData[len(numData) - 11:len(numData)]
-letterList=["hej"]*len(numData)
+letterList=["hejNod"]*len(numData)
 letterList[0]="Root"
 i = 0
 letterIndex = 0
@@ -27,6 +27,8 @@ previousleaf = ""
 rootvalues =[]
 leafIndex = 0
 rootSum = 0
+sonValues = [int]*0
+fatherValues = [int]*0
 
 class Node:
 
@@ -48,11 +50,32 @@ class Node(object):
         self.children = []
         self.childAmount = 0
         self.maxChild = maxchild
+        self.rootSum = 0
     def add_child(self, obj):
         self.children.append(obj)
         self.childAmount =int(self.childAmount)+1
 
-    #def rootsum(self):
+    def rootsum(self):
+        if self.maxChild !=0:
+            for i in range(int(self.maxChild)):
+                for j in range(int(len(self.value))):
+                    if int(self.value[j]) == i+1:
+                        print(self.name)
+                        if previousleaf is "Root":
+                            print("mje")
+                            print(self.value)
+                        self.rootSum += self.children[i].rootsum()
+        else:
+            if len(self.value) != 0:
+                print(len(self.value))
+                print("hejhejhejhej!!")
+                #print(type(self.rootSum))
+                #print(sumStringList(self.value))
+                self.rootSum += sumStringList(self.value)
+                print(self.rootSum)
+
+
+
 
 
 # root = Node("A",[2,3,4])
@@ -75,6 +98,8 @@ def childrenStatus(self ):
     global rootSum
     global previousleaf
     global rootvalues
+    global sonValues
+    global fatherValues
     while i < len(numData):
         if int(self.childAmount) < int(self.maxChild):
             previousleaf = self.name[0]
@@ -82,8 +107,11 @@ def childrenStatus(self ):
             if previousleaf == "Root":
                 print("hej")
                 rootvalues = rootMult
-            else:
-                rootvalues = self.value
+                #if self.childAmount == self.maxChild:
+                    #print("hej!!!")
+                    #self.rootSum = self.rootsum()
+            #else:
+            rootvalues = self.value
 
             letterIndex = letterIndex + 1
             childname = letterList[letterIndex]
@@ -102,11 +130,17 @@ def childrenStatus(self ):
             i = metamax -2
             status = "Child %s has metavalue %s" %(self.name, self.value)
             rootvalues = self.value
+
+
+            if  self.childAmount == self.maxChild and previousleaf is "Root":
+                print("hej!!!")
+                self.rootSum = self.rootsum()
+
+
             if previousleaf is "Root":
                 print(leafIndex)
                 #rootSum = multiplyByindex(str(leafIndex), rootMult, sumStringList(self.value))+ rootSum
             break
-
 
 def treeRun():
     global rootvalues
@@ -126,7 +160,8 @@ def treeRun():
     #rootBase = numData[len(numData)-:len(numData)]
     childrenStatus(root)
     print(totalSum)
-    print(rootMult)
+    #print(rootMult)
+    print(rootSum)
 
 
 def test():
