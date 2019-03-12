@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f6f8a97-da33-4825-97a6-8430aade158a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay11.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/RevisedCode/RevisedDay10.py" afterPath="$PROJECT_DIR$/RevisedCode/RevisedDay10.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,56 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RevisedDay6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="64" />
-              <folding>
-                <element signature="e#33#70#0" expanded="true" />
-                <element signature="e#369#881#0" expanded="false" />
-                <element signature="e#918#1921#0" expanded="false" />
-                <element signature="e#2072#2439#0" expanded="false" />
-                <element signature="e#2487#2771#0" expanded="false" />
-                <element signature="e#2811#2963#0" expanded="false" />
-                <element signature="e#3004#3581#0" expanded="false" />
-                <element signature="e#3628#4065#0" expanded="false" />
-                <element signature="e#3696#3956#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RevisedDay7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="32" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="32" />
-              <folding>
-                <element signature="e#33#70#0" expanded="true" />
-                <element signature="e#905#1160#0" expanded="false" />
-                <element signature="e#1416#1602#0" expanded="false" />
-                <element signature="e#1656#4073#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RevisedDay8.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="29" />
-              <folding>
-                <element signature="e#34#71#0" expanded="true" />
-                <element signature="e#1390#2070#0" expanded="false" />
-                <element signature="e#2105#2245#0" expanded="false" />
-                <element signature="e#2336#3408#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="marbles.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9/marbles.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,7 +27,7 @@
       <file leaf-file-name="RevisedDay9.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
+            <state relative-caret-position="1548">
               <caret line="92" column="23" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="92" selection-end-column="23" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -90,18 +40,18 @@
       <file leaf-file-name="usefulFunctions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="-522">
               <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RevisedDay10.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RevisedDay10.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="484">
+              <caret line="242" column="4" lean-forward="true" selection-start-line="242" selection-start-column="4" selection-end-line="245" selection-end-column="72" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
                 <element signature="e#2513#2678#0" expanded="false" />
@@ -110,6 +60,18 @@
                 <element signature="e#4828#4842#0" expanded="false" />
                 <element signature="e#4998#5409#0" expanded="false" />
                 <element signature="e#5804#6092#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RevisedDay11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="81" column="23" lean-forward="false" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,20 +96,6 @@
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="e#34#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RevisedDay3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="18" />
-              <folding>
-                <element signature="e#343#1018#0" expanded="false" />
-                <element signature="e#1059#1261#0" expanded="false" />
-                <element signature="e#1701#1988#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -206,14 +154,16 @@
         <option value="$PROJECT_DIR$/day9/marbles.py" />
         <option value="$PROJECT_DIR$/RevisedCode/RevisedDay9.py" />
         <option value="$PROJECT_DIR$/RevisedCode/RevisedDay10.py" />
+        <option value="$PROJECT_DIR$/RevisedCode/ReviseDay11.py" />
+        <option value="$PROJECT_DIR$/RevisedCode/RevisedDay11.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1615" />
-    <option name="height" value="1054" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="358" />
+    <option name="y" value="230" />
+    <option name="width" value="1613" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -339,10 +289,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="358" y="230" width="1613" height="1018" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3233831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3733248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -436,26 +386,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#34#71#0" expanded="true" />
-            <element signature="e#1390#2070#0" expanded="false" />
-            <element signature="e#2105#2245#0" expanded="false" />
-            <element signature="e#2336#3408#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6/manhattannode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
-          <caret line="164" column="27" lean-forward="true" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day7/shortcut.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2484">
@@ -778,6 +708,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/ReviseDay11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="92" column="23" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="92" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#2087#2193#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -809,14 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9/marbles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -830,29 +779,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RevisedCode/usefulFunctions.py">
+    <entry file="file://$PROJECT_DIR$/day9/marbles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        <state relative-caret-position="144">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="92" column="23" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="92" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-            <element signature="e#2087#2193#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="484">
+          <caret line="242" column="4" lean-forward="true" selection-start-line="242" selection-start-column="4" selection-end-line="245" selection-end-column="72" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
             <element signature="e#2513#2678#0" expanded="false" />
@@ -861,6 +799,16 @@
             <element signature="e#4828#4842#0" expanded="false" />
             <element signature="e#4998#5409#0" expanded="false" />
             <element signature="e#5804#6092#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevisedCode/RevisedDay11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="81" column="23" lean-forward="false" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
