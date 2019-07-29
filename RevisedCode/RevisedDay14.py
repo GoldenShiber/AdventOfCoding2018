@@ -78,7 +78,6 @@ def findScore(score, map):
     print("The score: " +score + " is found after "+str(i -1) + " recept")
 
 
-
 def setupData():
     elf1 = Elf()
     elf2 = Elf()
@@ -99,6 +98,7 @@ def setupData():
     file = open('Information.txt', 'w')
     file.write(map)
     file.close()
+
 
 def findRecept():
     lengthOfFile = file_len("Information.txt")
