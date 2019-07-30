@@ -414,13 +414,14 @@ def test(filepath):
         print("Time for mambo number :" + str(i))
         [gamestate, loser] = initMap.gameEnd()
         if gamestate:
-            print("Game hsa ended!")
+            print("Game has ended!")
             points = initMap.countPoints(i)
             print("The type of :"+loser+": lost with "+str(points)+ " points!")
             initMap.printMap()
             for unit in initMap.unitList:
                 print("The class is "+unit.Class + " and the health is now "+str(unit.health))
-        print("Number of alive units are: " +str(len(initMap.unitList)))
+        #print("Number of alive units are: " +str(len(initMap.unitList)))
+	initMap.step()
         i += 1
 
 
